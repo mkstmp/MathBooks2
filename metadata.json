@@ -1,0 +1,6 @@
+{
+  "name": "Math Book Portal",
+  "description": "An interactive digital portal hosting math workbooks for Class 1 to Class 10 with progressive board prep grids, direct sitemaps, and secure crawler/student access filters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
